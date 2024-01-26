@@ -1,0 +1,11 @@
+{
+    "tests": [
+        {
+            "score": 0,
+            "max_score": 0,
+            "name": "test.py::test_project1",
+            "output": "\n\nPassed test: input1.txt\n\n\nPassed test: input2.txt\n\n\nPassed test: input3.txt\n\n\nPassed test: input5.txt\n\n\nPassed test: input6.txt\n\n\nPassed test: input7.txt\n\n\nPassed test: input8.txt\n\n",
+            "visibility": "visible"
+        }
+    ]
+}
